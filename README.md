@@ -1,0 +1,1 @@
+# Enter-a-number-and-check-whether-it-is-even-or-odd_JS
